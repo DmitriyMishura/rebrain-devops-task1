@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="460" height="460" src="/home/dem/Рабочий стол/Rebrain/GIT/m_m_EasyBUS.png">
+  <img width="460" height="460" src="http://gitlab.rebrainme.com/-/ide/project/devops_users_repos/1760/rebrain-devops-task1/edit/master/-/resurses/m_m_EasyBUS.png">
 
 </p>
 
@@ -23,14 +23,14 @@ Modbus является довольно распространённым про
 ### Основное окно приложения:
 <p align="center">
 
-  <img width="460" height="700" src="/home/dem/Рабочий стол/Rebrain/GIT/main.png">
+  <img width="460" height="700" src="http://gitlab.rebrainme.com/devops_users_repos/1760/rebrain-devops-task1/-/blob/master/resurses/main.png">
 
 </p>
 
 ### Окно обмена данными:
 <p align="center">
 
-  <img width="460" height="700" src="/home/dem/Рабочий стол/Rebrain/GIT/terminal.png">
+  <img width="460" height="700" src="http://gitlab.rebrainme.com/devops_users_repos/1760/rebrain-devops-task1/-/blob/master/resurses/terminal.png">
 
 </p>
 
