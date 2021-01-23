@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="460" height="460" src="http://gitlab.rebrainme.com/-/ide/project/devops_users_repos/1760/rebrain-devops-task1/blob/master/-/resurses/m_m_EasyBUS.png?raw=true">
+  <img width="460" height="460" src="https://gitlab.rebrainme.com/devops_users_repos/1760/rebrain-devops-task1/blob/master/resurses/m_m_EasyBUS.png">
 
 </p>
 
